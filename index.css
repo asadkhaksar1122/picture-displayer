@@ -1,0 +1,23 @@
+.images {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.icon {
+  color: black;
+  font-size: 55px;
+  cursor: pointer;
+}
+.icon:hover {
+  color: blue;
+}
+.icon-left {
+  position: absolute;
+  top: 50vh;
+  left: 10px;
+}
+.icon-right {
+  position: absolute;
+  top: 50vh;
+  right: 10px;
+}
